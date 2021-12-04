@@ -8,7 +8,7 @@ public class Main {
     public static boolean isValidCardNumber(String number) {
         if (number == null) {
             return false;
-        }
+        }q
 
         if (number.length() != 16) {
             return false;

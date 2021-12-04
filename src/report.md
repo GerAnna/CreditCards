@@ -5,8 +5,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-https://github.com/GerAnna/Java1.2/issues/1
-
+https://github.com/GerAnna/Java.1.2./issues/1
 
 ## Описание процесса тестирования
 

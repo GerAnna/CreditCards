@@ -5,14 +5,13 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-https://github.com/GerAnna/Java1.2/issues/1
-
+[Номера банковских карт, содержащие менее или более 16 цифр, не проходят валидацию](https://github.com/GerAnna/Java1.2/issues/1) 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты*:
-* код из задачи №2 по ссылке https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md
+* код из задачи №2 по [ссылке](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md) 
 
-В качестве тестовых данных использовались номера карт, сгенерированные на сайте [https://www.getcreditcardnumbers.com/generated-credit-card-numbers](https://www.getcreditcardnumbers.com/generated-credit-card-numbers)
+В качестве тестовых данных использовались номера карт, сгенерированные на [сайте для генерации номеров карт](https://www.getcreditcardnumbers.com/generated-credit-card-numbers) 
 
 
 Тестирование производилось в следующем окружении:
